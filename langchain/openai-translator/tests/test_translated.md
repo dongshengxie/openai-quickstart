@@ -1,23 +1,21 @@
-Here is the translation of the provided text into Chinese:
+Here is the translation of the provided English text into Japanese:
 
-测试数据
-这个数据集包含了由OpenAI的AI语言模型ChatGPT提供的两个测试样本。这些样本包括一个Markdown表格和一个英文文本段落，可用于测试支持文本和表格格式的英译中翻译软件。
-文本测试
-快速的棕色狐狸跳过了懒狗。这个全字母句包含了英语字母表中的每一个字母至少一次。全字母句常用于测试字体、键盘和其他与文本相关的工具。除了英语，许多其他语言中也有全字母句。由于某些语言的独特特性，一些全字母句的构造更为困难。
-表格测试
+テストデータ
+このデータセットには、OpenAIによるAI言語モデルChatGPTが提供した2つのテストサンプルが含まれています。
+これらのサンプルには、マークダウンのテーブルと英語の文章が含まれており、テキストとテーブル形式をサポートする英語から中国語への翻訳ソフトウェアをテストするために使用できます。
+テキストテスト
+素早い茶色の狐が怠け者の犬を飛び越えます。このパンギラムには、英語のアルファベットのすべての文字が少なくとも一度含まれています。パンギラムは、フォント、キーボード、その他のテキスト関連ツールをテストするためによく使用されます。英語に加えて、他の多くの言語にもパンギラムがあります。一部の言語の独特の特性により、パンギラムの構築がより困難な場合もあります。
+テーブルテスト
 
-If you need the translation of any specific content or the table itself, please provide the details of the table or any other text you wish to have translated.
+Please note that the context of "Table Testing" at the end was not clear, so I left it as is. If you need a translation for that phrase specifically, it would be:
 
-| 水果，颜色，价格（美元） |
+テーブルテスト
+
+This simply means "Table Testing" in Japanese.
+
+|  |
 | --- |
-| 苹果，红色，1.2 |
-| 香蕉，黄色，0.5 |
-| 橙子，橙色，0.8 |
-| 草莓，红色，2.5 |
-| 蓝莓，蓝色，3.0 |
-| 奇异果，绿色，1.0 |
-| 芒果，橙色，1.5 |
-| 葡萄，紫色，2.00 |
+
 
 ---
 
